@@ -8,6 +8,9 @@ namespace :greeting do
    puts "hola de Rake!"
  end
  end
+ 
+ namespace :db do
+   de
  #desc 'outputs hello to the terminal'
 #task :hello do
  # puts "hello from Rake!"
