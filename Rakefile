@@ -11,6 +11,7 @@ namespace :greeting do
  
  namespace :db do
    desc 'migrate changes to your database'
+   task
    task :environment do
      require_relative './config/environment'
    end
