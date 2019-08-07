@@ -10,7 +10,8 @@ namespace :greeting do
  end
  
  namespace :db do
-   desc ''
+   desc 'migrate changes to your database'
+   task 
  #desc 'outputs hello to the terminal'
 #task :hello do
  # puts "hello from Rake!"
